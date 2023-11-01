@@ -1,3 +1,3 @@
-# 2023-Loss-of-autonomy-in-swallowing
+#  Predicting loss of autonomy in swallowing function for ALS patients
 
 ## Describing...
